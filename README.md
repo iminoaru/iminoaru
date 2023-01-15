@@ -2,7 +2,6 @@
 - I like learning new things of any field
 - Currently trying my hands on Web Development.
 - Newbie at Graphic Designing.
-- Interested in Blockchain, Problem Solving.
 - Reach me at Linkedin: sarthakgaud , EMail: SarthakGaud04@gmail.com
 
 <!---
