@@ -1,7 +1,6 @@
-- Hii, My name is Sarthak Gaud, I'm 18. 
-- I like learning new things of any field
+- Hey! My name is Sarthak Gaud, I'm 18. 
+- I like learning new things about Tech and Science.
 - Currently trying my hands on Web Development.
-- Newbie at Graphic Designing.
 - Reach me at Linkedin: sarthakgaud , EMail: SarthakGaud04@gmail.com
 
 <!---
