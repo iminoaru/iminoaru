@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=iminoaru&label=PROFILE+VISITS&color=B2AC88)
+![](https://komarev.com/ghpvc/?username=iminoaru&label=PROFILE+VISITS&color=orange)
 
 - Hey! My name is Sarthak Gaud, I'm 18. 
 - I like learning new things about Tech and Science.
