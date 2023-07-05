@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=iminoaru&label=PROFILE+VISITS&color=orange)
 
-- Hey! My name is Sarthak Gaud, I'm 18. 
+- Hey! My name is Sarthak Gaud. 
 - I like learning new things about Tech and Science.
 - Reach me at Linkedin: sarthakgaud , EMail: SarthakGaud04@gmail.com
 
