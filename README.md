@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=iminoaru&label=PROFILE+VISITS&color=orange)
 
 - I like Tech and Science.
-- Reach me at EMail: SarthakGaud04@gmail.com
+- Reach me at hi@sgaud.com
 <!---
 <p align="center">
   <a href="https://skillicons.dev">
